@@ -1,0 +1,10 @@
+nav {
+    border-bottom: 2px solid cornflowerblue;
+  }
+  .container 
+  {
+      width: 780px;
+      background: #FFF url(./static/img/clear-sky.png) no-repeat center top;
+      margin: 0 auto;
+      height:100%;
+ }
